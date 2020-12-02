@@ -1,0 +1,11 @@
+body{
+      background-image: url("./soccer.jpg");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      background-size: cover;
+      height: 700px;
+}
+.team-emblem{
+      height: 150px;
+}
